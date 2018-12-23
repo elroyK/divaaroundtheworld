@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div id="home">
+    
+    {%- if site.posts.size > 0 -%}
+        <h1>Latest posts</h1>
+        <div id="posts">
+            {%- for post in site.posts -%}
+            <div class="post">
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                    <div class="miniature">
+                        <img src="{{ post.photo }}" alt="">
+                    </div>
+                    <div class="metas">
+                        <h4 class="category">{{ post.categories }}</h4>
+                        <h3 class="title">
+                            {{ post.title | escape }}
+                        </h3>
+                        {%- assign date_format = site.minima.date_format | default: "%-d %b '%y" -%}
+                        <h4 class="date">{{ post.date | date: date_format }}</h4>
+                    </div>
+                </a>
+            </div>
+            {%- endfor -%}
+        </div>
+    {%- endif -%}
+
+</div>

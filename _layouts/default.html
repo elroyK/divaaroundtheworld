@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+    {% include head.html %}
+
+    <body>
+
+        {% include header.html %}
+
+        {{ content }}
+
+
+
+        <h1>Diva on instagram</h1>
+
+        <div id="instacontainer">
+            <span id="instaprev">PREVIOUS</span>
+            <div id="instafeed"></div>
+            <span id="instanext" class="active">NEXT</span>
+        </div>
+        
+        {% include footer.html %}
+
+    </body>
+
+    <script type="text/javascript" src="/assets/js/menu.js"></script>
+
+</html>

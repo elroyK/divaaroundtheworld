@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<div id="post">
+    <div id="post-header">
+        <img src="{{ page.photo }}" alt="">
+        <div id="post-metas">
+
+            {%- assign date_format = site.minima.date_format | default: "%-d %b '%y" -%}
+            <h3>{{ page.date | date: date_format }}</h3>
+            <h3>{{ page.categories }}</h3>
+        </div>
+        <h1 id="post-title">{{ page.title | escape }}</h1>
+        <p id="excerpt">
+            {{ page.excerpt }}
+        </p>
+    </div>
+    <div id="post-content">
+        {% if page.content %}
+            {{ page.content | markdownify }}
+        {% endif %}
+    </div>
+</div>
+{% assign related = '' | split: '' %}
+{% for category in page.categories %}
+    {% if site.categories[category].length > 1 %}
+        {% assign related = related | concat: site.categories[category] %}
+    {% endif %}
+{% endfor %}
+{% if related.length > 0 %}
+    <div id="related-posts">
+        <h1>Related posts</h1>
+        {% for related_post in related %}
+            {% unless related_post.url == page.url %}
+                    <div class="related-post">
+                        <a class="post-link" href="{{ related_post.url | relative_url }}">
+                            <div class="miniature">
+                                <img src="{{ related_post.photo }}" alt="">
+                            </div>
+                            <div class="metas">
+                                <h4 class="category">{{ related_post.categories }}</h4>
+                                <h3 class="title">
+                                    {{ related_post.title | escape }}
+                                </h3>
+                                {%- assign date_format = site.minima.date_format | default: "%-d %b '%y" -%}
+                                <h4 class="date">{{ related_post.date | date: date_format }}</h4>
+                            </div>
+                        </a>
+                    </div>
+            {% endunless %}
+        {% endfor %}
+    </div>
+{% endif %}
