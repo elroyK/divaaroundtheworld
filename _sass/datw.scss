@@ -7,7 +7,12 @@ html {
     font-weight: 400;
     font-style: normal;
     color: $black;
+    
+    &:not(.post) a{
+        color: $datw-blue;
+    }
 }
+
 
 h1 {
     text-align: center;
