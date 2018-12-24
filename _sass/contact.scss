@@ -1,3 +1,8 @@
+form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
 textarea {
     resize: none;
 }
@@ -10,16 +15,20 @@ textarea {
     -webkit-transition: .333s ease top, .333s ease opacity;
     transition: .333s ease top, .333s ease opacity;
 }
+.form-group {
+    margin-bottom: 10px
+}
 .form-control {
     border-radius: 0;
-    border-color: $datw-grey;
-    border-width: 0 0 2px 0;
-    border-style: none none solid none;
+    border-color: rgba($datw-grey, .5);
+    border-width: 0 0 1px 1px;
+    border-style: none none solid solid;
     box-shadow: none;
 }
 .form-control:focus {
     box-shadow: none;
     border-color: $datw-blue;
+    outline: none;
 }
 
 .btn-start-order {
@@ -32,4 +41,7 @@ textarea {
 }
 .btn-start-order:hover,.btn-start-order:active, .btn-start-order:focus {
     color: $datw-blue;
+}
+.text-center {
+    text-align: center;
 }
