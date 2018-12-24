@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Die Blaupause endet&#58; Diva ist zurück 
+title: Die Blaupause endet - Diva ist zurück 
 date: 2018-12-15 12:00:00
 categories:
   - Travel

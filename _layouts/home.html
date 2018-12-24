@@ -16,7 +16,7 @@ layout: default
                     <div class="metas">
                         <h4 class="category">{{ post.categories }}</h4>
                         <h3 class="title">
-                            {{ post.title | escape }}
+                            {{ post.title }}
                         </h3>
                         {%- assign date_format = site.minima.date_format | default: "%-d %b '%y" -%}
                         <h4 class="date">{{ post.date | date: date_format }}</h4>

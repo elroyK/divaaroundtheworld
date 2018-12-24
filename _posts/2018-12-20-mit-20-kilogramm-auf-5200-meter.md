@@ -3,7 +3,7 @@ layout: post
 title: Mit 20 Kilogramm auf 5200 Meter
 date: 2018-12-20 12:00:00
 categories:
-  - Test
+  - Travel
 excerpt: Ausangate&#58; Der fünfthöchste Berg des Andenstaats fordert den Wanderer ziemlich heftig und versöhnt ihn mit einer unglaublichen Landschaft. An manchen Stellen fast nicht von dieser Welt.
 photo: >-
   /assets/img/posts/6.jpg
