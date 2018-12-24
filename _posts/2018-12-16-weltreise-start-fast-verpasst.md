@@ -29,4 +29,4 @@ Ich schaffte es. Irgendwie. Der Chauffeur, ein tattriger Brite mit weißem Haupt
 
 Tja, da bleibt mir nur noch der Spruch von Forrest Gump: Dumm ist der, der Dummes tut :-)
 
-* Info: in regelmäßigen Abständen bekommt ihr den einen oder anderen Fauxpas serviert. *
+*Info: in regelmäßigen Abständen bekommt ihr den einen oder anderen Fauxpas serviert.*
