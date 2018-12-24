@@ -5,7 +5,7 @@ permalink: /about/
 menu: true
 ---
 
-![DivaAroundtheWorld_Valentina_Dirmaier_about](/uploads/dsc09313.jpg "Valentina Dirmaier. Foto: Fabio Cordesa")
+![DivaAroundtheWorld_Valentina_Dirmaier_about](/assets/img/pages/about.jpg "Valentina Dirmaier. Foto: Fabio Cordesa")
 
 Keine Diva, nicht um die Welt
 
@@ -18,5 +18,3 @@ Zu Fr&uuml;hlingsbeginn am 21. M&auml;rz 2018 stieg ich ins Flugzeug und machte 
 Ich arbeite unterwegs f&uuml;r verschiedene Zeitungen und Magazine - unter anderem f&uuml;r Die Presse. Hier auf meinem Blog schreibe ich f&uuml;r euch. Meine Erz&auml;hlungen und Gedanken sollen keine Selbstbeweihr&auml;ucherung sein, sondern den einen oder anderen inspirieren, um die Ecke zu denken oder sich aus einer festgefahrenen Lebenslage zu hieven und sich Tr&auml;ume zu erf&uuml;llen.
 
 *Denn das Leben ist zu kurz f&uuml;r morgen,*<br>*Valentina*
-
-&nbsp;
