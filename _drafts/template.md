@@ -1,0 +1,20 @@
+---
+layout: post
+title: TITLE GOES HERE
+date: 2018-12-23 05:00:00
+categories:
+  - WHATEVER
+excerpt: SUBTITLE GOES HERE
+photo: >-
+  /assets/img/posts/PHOTO NAME GOES HERE (ex : photo.jpg)
+---
+
+CONTENT CONTENT CONTENT
+
+## TITLE IN ARTICLE
+
+CONTENT CONTENT CONTENT
+
+## TITLE IN ARTICLE
+
+CONTENT CONTENT CONTENT
