@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Weltreise-Start fast verpasst 
-date: 2018-12-23 08:00:00
+date: 2018-12-22 12:00:00
 categories:
-  - Test
+  - Travel
 excerpt: Buenos Aires ist eine Wucht, die mich Ende März gnadenlos ins Backpacker-Leben katapultierte. Die Porteños, wie sich die Einwohner nennen, sind sehr *loco in the coco* - etwas verrückt. Ein Grund, warum die Hauptstadt Argentiniens in den Bann zieht
 photo: >-
   /assets/img/posts/8.jpg

@@ -447,7 +447,7 @@ footer {
             margin-bottom: 2rem;
 
             .post {
-                max-width: 20%;
+                width: 100%;
                 margin-left: auto;
                 margin-right: auto;
                 
@@ -464,14 +464,13 @@ footer {
                 }
 
                 .metas {
-                    margin-top: 1rem;
+                    margin-bottom: 1rem;
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
 
                     h4 {
                         font-size: .9rem;
-                    }
-
-                    .title {
-                        line-height: .9rem;
                     }
                 }
             }
