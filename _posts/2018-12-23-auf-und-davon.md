@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Auf und davon
-date: 2018-12-23 04:00:00
+date: 2018-12-18 12:00:00
 categories:
-  - Test
+  - Travel
 excerpt: Die Panik vom Reisebeginn ist längst verdaut. Reisende sind Gewohnheitstiere und gewöhnen sich irgendwann an alles. Fast alles.
 photo: >-
   /assets/img/posts/4.jpg

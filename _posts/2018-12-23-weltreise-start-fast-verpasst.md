@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Weltreise-Start fast verpasst 
-date: 2018-12-23 02:00:00
+date: 2018-12-16 12:00:00
 categories:
-  - Test
+  - Travel
 excerpt: Reisende sind vor Hoppalas nicht gefeit. Besonders ich nicht.
 photo: >-
   /assets/img/posts/2.jpg

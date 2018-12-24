@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Mit &num;80 um die Welt
-date: 2018-12-23 03:00:00
+title: Mit &#35;80 um die Welt
+date: 2018-12-17 12:00:00
 categories:
-  - Serie &num;80
+  - Serie &#35;80
 excerpt: *Phileas Fogg* will die Welt in 80 Tagen umrunden. Die reichen bei mir längst nicht aus. Ich will sie euch mit 80 Menschen näherbringen.
 photo: >-
   /assets/img/posts/3.jpg

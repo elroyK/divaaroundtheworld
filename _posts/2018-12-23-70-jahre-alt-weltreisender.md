@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Mit #80 um die Welt
-date: 2018-12-23 05:00:00
+title: 70 Jahre alt, Weltreisender
+date: 2018-12-19 12:00:00
 categories:
-  - Serie #80
-excerpt: Mit James startet meine Serie #80
+  - Serie &#35;80
+excerpt: Mit James startet meine Serie &#35;80
 photo: >-
-  /assets/img/posts/5.jpg
+  /assets/img/posts/5.png
 ---
 
 Ein Flugticket zum Abschied. Von Auckland, Neuseeland nach Buenos Aires, Argentinien am 30. Mai. Auf das Stück Papier kritzelt James Warren auf die Rückseite die Adresse seiner Schwester in High Wycombe, Western Australia. Ich solle mich melden, wenn ich in Australien aufschlage, sagt er mit einem milden Lächeln. Vielleicht sei er zufällig auf Heimatbesuch und könne mich herumführen. Welch eine Illusion. James Warren ist ein Reisender. Ein Rastloser und Ruheloser, der seit seinen 20ern durch die Welt zieht. Damals wie heute mit Rucksack. Mit 70 plus.

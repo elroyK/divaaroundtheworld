@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Die Blaupause endet&colon; Diva ist zurück 
-date: 2018-12-23 01:00:00
+title: Die Blaupause endet&#58; Diva ist zurück 
+date: 2018-12-15 12:00:00
 categories:
-  - Test
+  - Travel
 excerpt:
 photo: >-
   /assets/img/posts/1.jpg
@@ -27,4 +27,4 @@ Ein besonderes Dankeschön gilt meinem persönlichen Korrektorat: Danke Mama und
 
 Ihr Lieben da draußen! Habt viel Lesevergnügen mit der „neuen“ Diva Around the World. Lasst euch mitnehmen und vielleicht inspirieren, die Welt zu bereisen oder sie mit offeneren Augen zu entdecken. Seid neugierig. Auch mir gegenüber - ich freue mich über Fragen und Feedback.
 
-* Eure Valentina<br>DivaAroundtheWorld *
+*Eure Valentina<br>DivaAroundtheWorld*
