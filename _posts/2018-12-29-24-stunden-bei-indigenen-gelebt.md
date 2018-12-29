@@ -7,7 +7,8 @@ categories:
 excerpt: >-
   Spezielle Erfahrung: Bezahlter Aufenthalt bei einer Eingeborenen-Familie mit
   Freiluftdusche und Insektenjause
-photo: '/assets/img/posts/img-5334.jpg'
+photo: >-
+  /assets/img/posts/img-5334.jpg
 ---
 
 Pudelnackert und eingeseift stehe ich da. Neben mir der gaffende Mischling. Mit einer Metallsch&uuml;ssel sch&uuml;tte ich mir Wasser &uuml;bers Haupt. So funktioniert duschen im Dschungel. &Uuml;ber mir der Sternenhimmel, unter mir ein paar Bretter, neben der Wassertonne das Holzbrett, das als K&uuml;che dient. Mittags lag dort noch ein halbes totes Huhn und ein Fang Fische.&nbsp;
