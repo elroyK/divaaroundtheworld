@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Weltreise-Start fast verpasst 
+title: Ab in die Tumult-Stadt
 date: 2018-12-22 12:00:00
 categories:
-  - Travel
-excerpt: Buenos Aires ist eine Wucht, die mich Ende März gnadenlos ins Backpacker-Leben katapultierte. Die Porteños, wie sich die Einwohner nennen, sind sehr *loco in the coco* - etwas verrückt. Ein Grund, warum die Hauptstadt Argentiniens in den Bann zieht
-photo: >-
-  /assets/img/posts/8.jpg
+  - Medien
+excerpt: >-
+  Buenos Aires ist eine Wucht, die mich Ende März gnadenlos ins Backpacker-Leben
+  katapultierte. Die Porteños, wie sich die Einwohner nennen, sind sehr *loco in
+  the coco* - etwas verrückt. Ein Grund, warum die Hauptstadt Argentiniens in
+  den Bann zieht
+photo: /assets/img/posts/8.jpg
 ---
 
 Die wüsten Beschimpfungen scheinen nicht enden zu wollen. Wie ein Rohrspatz auf Speed kämpft sich der Fahrer mit sämtlichen vulgären Ausdrücken, die der Lunfardo, die flapsige Sprache der Einheimischen, hergibt, durch den Verkehr. Freitagabend, und die größte Straße der Welt, die Hauptverkehrsader in Argentiniens Hauptstadt, ist verstopft. Es blinkt. Es ist laut. Es ist hektisch. Die Avenida 9 de Julio, 16 Fahrspuren und 140 Meter breit, quillt über.
