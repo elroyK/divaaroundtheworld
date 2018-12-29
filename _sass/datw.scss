@@ -33,6 +33,7 @@ header {
     text-align: center;
     border-bottom: 0.25px solid rgba($black, .7);
     margin-bottom: 2rem;
+    position: relative;
     
     #logo {
         max-width: 150px;
@@ -85,6 +86,7 @@ header {
                     &.cc-active, &.active, &:hover, &:focus {
                         color: $datw-blue;
                         text-decoration: none;
+                        cursor: pointer;
                     }
                 }
             }
@@ -92,11 +94,32 @@ header {
     }
     
     #socials {
-        i, a {
-            color: $black;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        
+        
+        ul {
+            list-style: none;
+            display: flex;
+            fliex-direction: row;
+            margin: 0;
+            justify-content: center;
             
-            &:hover {
-                color: $datw-blue;
+            li {
+                margin-left: 5px;
+                margin-right: 5px;
+                
+                a {
+                    li {
+                        font-size: 1.1rem;
+                        color: $black;
+
+                        &:hover {
+                            color: $datw-blue;
+                        }
+                    }
+                }
             }
         }
     }
@@ -442,6 +465,11 @@ footer {
                 margin-right: auto;
                 min-height: 0;
             }
+        }
+        
+        #socials {
+            width: 80px;
+            right: 50px;
         }
     }
 
