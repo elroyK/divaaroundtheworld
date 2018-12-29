@@ -7,7 +7,7 @@ categories:
 excerpt: >-
   Spezielle Erfahrung: Bezahlter Aufenthalt bei einer Eingeborenen-Familie mit
   Freiluftdusche und Insektenjause
-photo: '/assets/img/posts/PHOTO NAME GOES HERE (ex : photo.jpg)'
+photo: '/assets/img/posts/img-5334.jpg (ex : photo.jpg)'
 ---
 
 ![divaAroundtheWorld_indigenous_eingeborene_amazonas](/uploads/img-5334.jpg "Zu Gast beim Stamm der Tucano in der Nähe von Manaus, Brasilien. Foto: diva")Pudelnackert und eingeseift stehe ich da. Neben mir der gaffende Mischling. Mit einer Metallsch&uuml;ssel sch&uuml;tte ich mir Wasser &uuml;bers Haupt. So funktioniert duschen im Dschungel. &Uuml;ber mir der Sternenhimmel, unter mir ein paar Bretter, neben der Wassertonne das Holzbrett, das als K&uuml;che dient. Mittags lag dort noch ein halbes totes Huhn und ein Fang Fische.&nbsp;
