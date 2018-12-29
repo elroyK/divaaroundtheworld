@@ -140,6 +140,10 @@ header {
     background-color: #fff;
     transition: all .5s ease;
     z-index: 98;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     
     &.visible {
         opacity: 1;
@@ -148,6 +152,31 @@ header {
     &:not(.visible) {
         opacity: 0;
         pointer-events: none;
+    }
+    
+    form {
+        margin: 0;
+        
+        #mc_embed_signup_scroll {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            
+            label {
+                font-size: 1.2rem;
+            }
+            
+            input:not(.button) {
+                width: 100%;
+            }
+            
+            .button {
+                border: none;
+                background: lighten($datw-blue, 10%);
+                border-radius: 4px;
+            }
+        }
     }
 }
 
