@@ -10,7 +10,7 @@ excerpt: >-
 photo: '/assets/img/posts/PHOTO NAME GOES HERE (ex : photo.jpg)'
 ---
 
-Pudelnackert und eingeseift stehe ich da. Neben mir der gaffende Mischling. Mit einer Metallsch&uuml;ssel sch&uuml;tte ich mir Wasser &uuml;bers Haupt. So funktioniert duschen im Dschungel. &Uuml;ber mir der Sternenhimmel, unter mir ein paar Bretter, neben der Wassertonne das Holzbrett, das als K&uuml;che dient. Mittags lag dort noch ein halbes totes Huhn und ein Fang Fische.&nbsp;
+![](/uploads/img-5334.jpg)Pudelnackert und eingeseift stehe ich da. Neben mir der gaffende Mischling. Mit einer Metallsch&uuml;ssel sch&uuml;tte ich mir Wasser &uuml;bers Haupt. So funktioniert duschen im Dschungel. &Uuml;ber mir der Sternenhimmel, unter mir ein paar Bretter, neben der Wassertonne das Holzbrett, das als K&uuml;che dient. Mittags lag dort noch ein halbes totes Huhn und ein Fang Fische.&nbsp;
 
 Aber warum das Ganze? Nicht blo&szlig; eine inszenierte Tanzeinlage mit barbusigen Amazonen soll meine Neugierde auf das Leben der Indigenen im Amazonas stillen. Ich wollte das wahre Leben sehen und dabei sein – f&uuml;r den privaten und beruflichen Zweck. Aber es war verdammt schwierig. Anrufe und Mails wurden ignoriert, ich bekam laufend Absagen. Kein Wunder, es war sehr schwer Eingeborene zu finden, die einen aufnehmen und nicht ausbeuten, ausrauben oder t&ouml;ten wollen.&nbsp;
 
