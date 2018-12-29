@@ -90,6 +90,16 @@ header {
             }
         }
     }
+    
+    #socials {
+        i, a {
+            color: $black;
+            
+            &:hover {
+                color: $datw-blue;
+            }
+        }
+    }
 }
 
 
