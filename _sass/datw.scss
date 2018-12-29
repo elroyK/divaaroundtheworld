@@ -117,12 +117,15 @@ header {
                 margin-right: 5px;
                 
                 a {
-                    li {
-                        font-size: 1.1rem;
-                        color: $black;
-                        &:hover {
+                    color: $black;
+                    &:hover {
+                        i {
                             color: $datw-blue;
                         }
+                    }
+
+                    i {
+                        font-size: 1.1rem;
                     }
                 }
             }
