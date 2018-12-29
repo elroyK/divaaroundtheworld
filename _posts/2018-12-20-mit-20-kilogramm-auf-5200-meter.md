@@ -3,10 +3,12 @@ layout: post
 title: Mit 20 Kilogramm auf 5200 Meter
 date: 2018-12-20 12:00:00
 categories:
-  - Travel
-excerpt: Ausangate&#58; Der fünfthöchste Berg des Andenstaats fordert den Wanderer ziemlich heftig und versöhnt ihn mit einer unglaublichen Landschaft. An manchen Stellen fast nicht von dieser Welt.
-photo: >-
-  /assets/img/posts/6.jpg
+  - Medien
+excerpt: >-
+  Ausangate&#58; Der fünfthöchste Berg des Andenstaats fordert den Wanderer
+  ziemlich heftig und versöhnt ihn mit einer unglaublichen Landschaft. An
+  manchen Stellen fast nicht von dieser Welt.
+photo: /assets/img/posts/6.jpg
 ---
 
 Die Trageriemen des voll beladenen Wanderrucksacks schneiden in die dünne Haut über den Schlüsselbeinen. Zelt, Matte, Schlafsack, Pyjama, Bikini, Kochtopf, Gaskartusche, Thermoskanne und Verpflegung für sieben Tage – alles ist eng um den Körper geschnallt, muss von Schultern und Hüften getragenwerden. Die 22 Kilogramm machen bereits beim Losgehen träge. Die Beine sind langsam. Langsamer als gewöhnlich. Die Atmung ist schneller. Schneller als gewöhnlich. 4408 Meter Seehöhe. Die Lungen und Muskeln müssen Höchstarbeit leisten und gleichzeitig mit weniger Sauerstoff in der klaren Luft auskommen. Das alles ist vergessen, wenn sich der Blick von der kahlen Wiese auf zu den schneebedeckten Gipfeln und den zerklüfteten Eisfeldern hebt. Sie, die spitzen weißen und grauen Zacken, durchschneiden die weich geformte moosgrüne Hügellandschaft. Der Ausangate, der fünfthöchste Berg Perus, und seine nicht minder hohen Brüder und Schwestern sind eine Wucht.
@@ -75,10 +77,10 @@ Die Vorstellung vom Bad in den heißen Quellen im elf Kilometer entfernten Pacch
 
 Im Dorf mit bunten Häuschen warten Frauen mit ihren traditionellen Llikllas, den bunten Webtüchern, auf die Ankömmlinge aus den Bergen. Bieten Waren zum Kauf und offerieren eine Schlafgelegenheit. Danke. Nein. Die letzte Nacht will noch einmal unter dem Zeltdach und unter dem Kreuz des Südens, unter Millionen Sternen, verbracht werden. Noch bevor in den heißen Quellen nach dem morgendlichen Bad zwischen Fingern und Zehen Schwimmhäute wachsen, wird noch ein letztes Mal Haferbrei mit Nüssen aufgekocht, wird ein letztes Mal abgewaschen und wird ein letztes Mal der Rucksack mit Zelt, Matte, Schlafsack, Pyjama, Bikini, Gaskartusche und Thermoskanne umgeschnallt.
 
-*Veröffentlicht wurde [die Geschichte](https://diepresse.com/home/leben/reise/5539391/Langer-Atem-fuer-den-Ausangate){: target="_blank"} am 1. Dezember in „Die Presse“ *
+\*Veröffentlicht wurde [die Geschichte](https://diepresse.com/home/leben/reise/5539391/Langer-Atem-fuer-den-Ausangate){: target="_blank"} am 1. Dezember in „Die Presse“ \*
 
 ## Zusatzinfo
 
-Kleine Details am Rande, über die in Zeitung und in der Online-Ausgabe nicht zu lesen sind: Die Fahrt im klapprigen Bus, der heillos überfüllt war, der um die Kurven bretterte, als gäbe es kein Morgen und in dem ein dauer-plappernder Verkäufer über Potenzpillen schwadronierte, hat sich später als eine der schönsten Momente der Reise im Kopf eingeprägt. Die Vorfreude auf die bevorstehende und wissentlich herausfordernde Tour war unendlich groß. Ich habe mir diesen Marsch vorgenommen, seitdem ich das erste Mal von Bergfex Michi Dirninger von [Andean-Expedition](http://www.andean-expeditions.com){: target="_blank"} darauf aufmerksam gemacht wurde. 
+Kleine Details am Rande, über die in Zeitung und in der Online-Ausgabe nicht zu lesen sind: Die Fahrt im klapprigen Bus, der heillos überfüllt war, der um die Kurven bretterte, als gäbe es kein Morgen und in dem ein dauer-plappernder Verkäufer über Potenzpillen schwadronierte, hat sich später als eine der schönsten Momente der Reise im Kopf eingeprägt. Die Vorfreude auf die bevorstehende und wissentlich herausfordernde Tour war unendlich groß. Ich habe mir diesen Marsch vorgenommen, seitdem ich das erste Mal von Bergfex Michi Dirninger von [Andean-Expedition](http://www.andean-expeditions.com){: target="_blank"} darauf aufmerksam gemacht wurde.
 
-Dass ich überhaupt auf die Füße kam, war für mich eine kleine Sensation. 45 Stunden zuvor hatte ich mit verquollenen Augen, laufender Nase und bitterlich weinend auf dem Hauptplatz des Touristen-Auffanglagers Cusco gesessen. Ich hatte einen seelischen Tiefpunkt erreicht. Ohne Grund. Ohne Vorfälle. Ohne Vorwarnung. Irgendwann, nach einer verbrauchten Packung Taschentücher und Trost-Eiscreme hatte ich mich beruhigt und konnte die Planung für den Ausangate starten. 
+Dass ich überhaupt auf die Füße kam, war für mich eine kleine Sensation. 45 Stunden zuvor hatte ich mit verquollenen Augen, laufender Nase und bitterlich weinend auf dem Hauptplatz des Touristen-Auffanglagers Cusco gesessen. Ich hatte einen seelischen Tiefpunkt erreicht. Ohne Grund. Ohne Vorfälle. Ohne Vorwarnung. Irgendwann, nach einer verbrauchten Packung Taschentücher und Trost-Eiscreme hatte ich mich beruhigt und konnte die Planung für den Ausangate starten.
