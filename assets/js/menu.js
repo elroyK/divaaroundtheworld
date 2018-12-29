@@ -26,8 +26,20 @@ function wheel(e) {
 
 $(".hamburger").click(function(){
     $(".hamburger").toggleClass("is-active");
-    $("nav").toggleClass("visible");
+    
+    if ($(".hamburger").hasClass("is-newsletter")) {
+        $(".hamburger").toggleClass("is-newsletter");
+        $("#mc_embed_signup").toggleClass("visible");
+    } else {
+        $("nav").toggleClass("visible");
+    }
 });
+
+$("#newsletter").click(function() {
+    $(".hamburger").toggleClass("is-active");
+    $("#mc_embed_signup").toggleClass("visible");
+    $(".hamburger").toggleClass("is-newsletter");
+})
 
 $("#menu a").click(function(e){
     $(".hamburger").toggleClass("is-active");

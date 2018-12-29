@@ -47,6 +47,10 @@ header {
         position: fixed;
         top: 15px;
         right: 5px;
+        
+        &.is-newsletter {
+            display: inline-block;
+        }
     }
     
     nav {
@@ -122,6 +126,24 @@ header {
                 }
             }
         }
+    }
+}
+
+#mc_embed_signup {
+    top: 0;
+    left: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: #fff;
+    transition: all .5s ease;
+    
+    &.visible {
+        opacity: 1;
+    }
+    
+    &:not(.visible) {
+        opacity: 0;
+        pointer-events: none;
     }
 }
 
