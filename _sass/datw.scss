@@ -119,7 +119,9 @@ header {
                 a {
                     color: $black;
                     &:hover {
-                        color: $datw-blue;
+                        li {
+                            color: $datw-blue;
+                        }
                     }
 
                     li {
