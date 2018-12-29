@@ -471,6 +471,7 @@ footer {
             min-height: 0;
             min-width: 0;
             width: 100%;
+            z-index: 96;
 
             &.visible {
                 opacity: 1;
