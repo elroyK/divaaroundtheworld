@@ -5,7 +5,7 @@ date: 2018-12-31 02:00:00
 categories:
   - 'Serie #80'
 excerpt: 'Serie #80: Wie mich Vivi in der größten Not aufpeppelte'
-photo: /assets/img/posts/numbertwo
+photo: /assets/img/posts/schwarzzwei.png
 ---
 
 Muttertag ohne Mama, ist wie Weihnachten ohne „Stille Nacht“. Es fehlt etwas. So wie der erste Muttertag auf Reisen. Mama war in Europa, ich in Südamerika. Bewusst wurde mir das eigentlich erst zwei Tage davor, als ich bei Viviana in Valdivia (Chile) als Couchsurferin eincheckte und mein Schlafgemach bezog. 
@@ -28,4 +28,4 @@ Der Abschied war traurig. Aber es gab Hoffnung auf ein Wiedersehen, das auch tat
 
 *#2<br>Viviana aus Valdivia<br>Chile, Mai 2018*
 
-##
+# #
