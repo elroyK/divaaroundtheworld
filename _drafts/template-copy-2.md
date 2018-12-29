@@ -16,7 +16,7 @@ Aber warum das Ganze? Nicht blo&szlig; eine inszenierte Tanzeinlage mit barbusig
 
 Mehr als zwei Wochen mit Recherchieren, Schriftverkehr, zig Telefonate, Treffen und viele Tiefs und Hochs vergingen, bis ich kurzfristig eine Zusage bekam. Ich wollte eigentlich schon l&auml;ngst von Manaus weg sein. Am besten Hals &uuml;ber Kopf. Irgendwas hielt mich und ich hatte Gl&uuml;ck. Ich kam &uuml;ber viele Umwege an einem der vielen Nebenarme des Rio Negro zu Herrn Santiago, vom Stamm der Tucano.
 
-## TITLE IN ARTICLE
+## Der erste Kontakt
 
 Seine Familie und vier andere wohnen im abgelegen Gebiet Roxinou, in der N&auml;he des Rio Igarap&eacute; Tarum&atilde;-a&ccedil;u, in einfachen Holzh&uuml;tten. Hier gibt es au&szlig;er Natur weit und breit nichts. Der erste Kontakt war verhalten. Die Gastgeber f&uuml;hlten sich unwohl in ihrer Rolle. Ich mich in meiner ebenfalls. Sie unterhalten sich auf Tariano und ich verstehe weder das, noch spreche ich flie&szlig;end Portugiesisch.&nbsp;
 
