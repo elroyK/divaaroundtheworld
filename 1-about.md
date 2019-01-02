@@ -18,3 +18,5 @@ Zu Fr&uuml;hlingsbeginn am 21. M&auml;rz 2018 stieg ich ins Flugzeug und machte 
 Ich arbeite unterwegs f&uuml;r verschiedene Zeitungen und Magazine - unter anderem f&uuml;r Die Presse. Hier auf meinem Blog schreibe ich f&uuml;r euch. Meine Erz&auml;hlungen und Gedanken sollen keine Selbstbeweihr&auml;ucherung sein, sondern den einen oder anderen inspirieren, um die Ecke zu denken oder sich aus einer festgefahrenen Lebenslage zu hieven und sich Tr&auml;ume zu erf&uuml;llen.
 
 *Denn das Leben ist zu kurz f&uuml;r morgen,*<br>*Valentina*
+
+Valentina Maria Anna | 26 | #30unter30 | Ober&ouml;sterreicherin | Innviertlerin | Journalistin | Geschichtsammlerin | Erfahrungserz&auml;hlerin | Plaudertasche | Bergsteigerin | Weitwanderin | Weltentdeckerin | Energieb&uuml;ndel | Gef&uuml;hlsmensch |Neugierdsnase | Kilometersammlerin | Naturliebhaberin | Schneckenhasserin | Nussschneckens&uuml;chtige | Ratzfatzk&ouml;chin | Langsamesserin | Biertrinkerin | Genussmensch | Ungeduldsperson | Stursch&auml;del | Gl&uuml;ckskind
