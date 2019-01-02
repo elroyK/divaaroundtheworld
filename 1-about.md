@@ -7,7 +7,7 @@ menu: true
 
 ![DivaAroundtheWorld_Valentina_Dirmaier_about](/assets/img/pages/about.jpg "Valentina Dirmaier. Foto: Fabio Cordesa")
 
-Keine Diva, nicht um die Welt
+**Keine Diva, nicht um die Welt**
 
 Mein Name ist Dirmaier Valentina. Kurz Diva. Wobei, Nomen ist nicht Omen. Als Bauernkind, das lieber auf Heuballen herumgesprungen ist, als mit Barbiepuppen zu spielen und inzwischen lieber Bergsteigen als Shoppen geht, bin ich eher das krasse Gegenteil. Damals wie heute ist die Neugierde mein Motor. Dieses Wissen-wollen-was-die-Welt-antreibt machte mich von der Hausaufgaben- zur Berufsschreiberin und war mein Kraftstoff als Redakteurin.&nbsp;
 
@@ -20,3 +20,7 @@ Ich arbeite unterwegs f&uuml;r verschiedene Zeitungen und Magazine - unter ander
 *Denn das Leben ist zu kurz f&uuml;r morgen,*<br>*Valentina*
 
 &nbsp;
+
+**In aller K&uuml;rze**
+
+Valentina Maria Anna, 26, Ober&ouml;sterreicherin, Innviertlerin, Journalistin, Geschichtensammlerin, Erfahrugnserz&auml;hlerin, Plaudertasche, Bergsteigerin, Weitwanderin, Weltentdeckerin, Energieb&uuml;ndel, Gef&uuml;hlsmensch, Neugierdsnase, Kilometersammlerin, Naturliebhaberin, Schneckenhasserin, Nussschneckens&uuml;chtige, &nbsp;Ratzfatzk&ouml;chin, Schokoladevielfra&szlig;, Langsamesserin, Biertrinkerin, Genussmensch, Ungeduldsperson, Stursch&auml;del, Gl&uuml;ckskind, Abenteurerin.
