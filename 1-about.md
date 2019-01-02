@@ -19,4 +19,4 @@ Ich arbeite unterwegs f&uuml;r verschiedene Zeitungen und Magazine - unter ander
 
 *Denn das Leben ist zu kurz f&uuml;r morgen,*<br>*Valentina*
 
-Valentina Maria Anna | 26 | #30unter30 | Ober&ouml;sterreicherin | Innviertlerin | Journalistin | Geschichtsammlerin | Erfahrungserz&auml;hlerin | Plaudertasche | Bergsteigerin | Weitwanderin | Weltentdeckerin | Energieb&uuml;ndel | Gef&uuml;hlsmensch |Neugierdsnase | Kilometersammlerin | Naturliebhaberin | Schneckenhasserin | Nussschneckens&uuml;chtige | Ratzfatzk&ouml;chin | Langsamesserin | Biertrinkerin | Genussmensch | Ungeduldsperson | Stursch&auml;del | Gl&uuml;ckskind
+&nbsp;
